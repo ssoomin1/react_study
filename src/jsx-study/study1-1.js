@@ -26,6 +26,8 @@ const lst = ['Chocolate', 'Vanilla', 'Banana'].map(flavor => {
     return React.createElement('li', null, flavor)
 })
 const title = 'My favorite ice cream flavors'
+
+//div 태그는 구역을 나눌 때 사용된다.
 const favorites = React.createElement('div', null,
     React.createElement('h1', null, `Title : ${title}`),
     React.createElement('ul', null, lst)
