@@ -2,4 +2,5 @@
 //import './jsx-study/make-pTag'
 //import './jsx-study/props-children'
 //import './jsx-study/props-basic-default-props'
-import './jsx-study/props-basic-prop-types'
+//import './jsx-study/props-basic-prop-types'
+import './jsx-study/props-static'
