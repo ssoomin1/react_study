@@ -3,4 +3,6 @@
 //import './jsx-study/props-children'
 //import './jsx-study/props-basic-default-props'
 //import './jsx-study/props-basic-prop-types'
-import './jsx-study/props-static'
+//import './jsx-study/props-static'
+//import './component-intermediate/todo-app-demo'
+import './make-image-slider-3212-shinsoomin'
